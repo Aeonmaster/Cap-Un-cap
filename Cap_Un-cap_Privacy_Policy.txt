@@ -4,32 +4,37 @@ Developer: Mitchell Sherman
 Contact: mjsanimes777@gmail.com
 
 1. Overview
-Cap Un-cap is a Google Docs add-on that allows users to change the capitalization of selected text (for example, convert uppercase text to lowercase or vice versa). This add-on operates entirely within the user’s Google Docs environment using Google Apps Script.
+Cap Un-cap is a Google Docs add-on that allows users to change the capitalization of selected text (for example, convert uppercase text to lowercase or vice versa). This add-on operates entirely within the user’s Google Docs environment using Google Apps Script. Some features require a paid license.
 
 2. Information We Collect
-The add-on does not collect, store, transmit, or share any personal or document data outside of the user’s Google account. All processing happens locally in your Google Docs document through Google’s own services.
+To provide paid features, Cap Un-cap stores the following information:
+- Google account email addresses of users who have purchased a license
+- Payment confirmation timestamps
+
+This information is stored in a private Google Sheet managed by the developer. No other personal or document content is collected or transmitted.
 
 3. How Information Is Used
-The only operation performed by Cap Un-cap is transforming the selected text within the open Google Doc. No data is sent to external servers, databases, or analytics platforms.
+- To verify that a user has purchased a license for premium features
+- To manage access to the add-on functionality
 
 4. Data Sharing
-We do not share any information with third parties. Google may have access to certain metadata as governed by the Google Privacy Policy when you use Google Docs or Workspace.
+We do not share license or payment information with third parties. Payment processing is handled securely by PayPal, and PayPal’s privacy policy governs any information collected during payment.
 
 5. User Control and Access
-Because the add-on does not store or transmit data, users retain full control of their documents and any text transformations. You can remove or uninstall the add-on at any time through the Google Workspace Marketplace or the Google Docs Add-ons menu.
+Users can request removal of their license information by contacting the developer at mjsanimes777@gmail.com. Users retain full control of their Google Docs documents.
 
 6. Security
-All operations occur within Google’s secure infrastructure using Apps Script. No external servers, APIs, or external requests are used.
+All license information is stored in Google Sheets and protected by your Google account. Payment information is handled entirely by PayPal and is not stored by the add-on.
 
 7. Children’s Privacy
-Cap Un-cap is not directed to children under 13 and does not knowingly collect any information from them.
+Cap Un-cap is not directed to children under 13 and does not knowingly collect information from children.
 
 8. Changes to This Policy
-We may update this policy from time to time. The latest version will always be available at the published URL associated with the add-on listing.
+This policy may be updated over time. The latest version will always be available at the published URL associated with the add-on.
 
 9. Contact
-If you have any questions or concerns about privacy or data use, please contact:
-mjsanimes@gmail.com
+Questions about privacy or data use should be sent to:
+mjsanimes777@gmail.com
 
 Compliance Statement
-Cap Un-cap complies with the Google API Services User Data Policy and the Google Workspace Marketplace Developer Agreement. No sensitive or restricted scopes are used, and no user data is transferred outside Google Workspace.
+Cap Un-cap complies with the Google API Services User Data Policy and the Google Workspace Marketplace Developer Agreement.
