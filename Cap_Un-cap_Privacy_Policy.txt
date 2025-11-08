@@ -1,7 +1,7 @@
 Privacy Policy for Cap Un-cap
 Effective date: November 7, 2025
 Developer: Mitchell Sherman
-Contact: mjsanimes@gmail.com
+Contact: mjsanimes777@gmail.com
 
 1. Overview
 Cap Un-cap is a Google Docs add-on that allows users to change the capitalization of selected text (for example, convert uppercase text to lowercase or vice versa). This add-on operates entirely within the user’s Google Docs environment using Google Apps Script.
